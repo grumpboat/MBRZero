@@ -1,7 +1,7 @@
 # MBRZero
 Set your MBR to zero
 
-# DISCLAIMER
+**DISCLAIMER:**
 This program is not safe. It will overwrite your MBR and make your computer unusable.
 **DO NOT TRY THIS ON YOUR HOST MACHINE. YOU HAVE BEEN WARNED.**
 
