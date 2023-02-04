@@ -1,0 +1,11 @@
+D:\Software\Development\MBRZero\bin\Release\MBRZero.exe.config
+D:\Software\Development\MBRZero\bin\Release\MBRZero.exe
+D:\Software\Development\MBRZero\bin\Release\MBRZero.pdb
+D:\Software\Development\MBRZero\obj\Release\MBRZero.csproj.AssemblyReference.cache
+D:\Software\Development\MBRZero\obj\Release\MBRZero.csproj.SuggestedBindingRedirects.cache
+D:\Software\Development\MBRZero\obj\Release\MBRZero.Form1.resources
+D:\Software\Development\MBRZero\obj\Release\MBRZero.Properties.Resources.resources
+D:\Software\Development\MBRZero\obj\Release\MBRZero.csproj.GenerateResource.cache
+D:\Software\Development\MBRZero\obj\Release\MBRZero.csproj.CoreCompileInputs.cache
+D:\Software\Development\MBRZero\obj\Release\MBRZero.exe
+D:\Software\Development\MBRZero\obj\Release\MBRZero.pdb
